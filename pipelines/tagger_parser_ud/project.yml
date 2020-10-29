@@ -9,9 +9,9 @@ vars:
   train_name: "sv_talbanken-ud-train"
   dev_name: "sv_talbanken-ud-dev"
   test_name: "sv_talbanken-ud-test"
-  package_name: "ud_sv_talbanken"
-  package_version: "0.0.0"
-  gpu: -1
+  package_name: "ud_talbanken"
+  package_version: "0.0.1"
+  gpu: 0
 
 # These are the directories that the project needs. The project CLI will make
 # sure that they always exist.
